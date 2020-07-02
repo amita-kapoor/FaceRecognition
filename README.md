@@ -3,6 +3,10 @@ Face recognition is a pattern recognition task, performed specifically on human 
 
 This repositary includes various algorithms for the recogniton of faces in real-world scenarios. The datset used for testing is created at Artificial Intelligence Research Lab, Shaheed Rajguru College, University of Delhi.
 
+https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository
+
+https://github.com/amita-kapoor/UO-Artificial-Intelligence-Cloud-and-Edge-Implementations/blob/master/LICENSE
+
 
 
 
